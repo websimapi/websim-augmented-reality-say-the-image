@@ -111,7 +111,7 @@ function App() {
     }
   };
   if (!gameStarted) {
-    return /* @__PURE__ */ jsxDEV("div", { className: "overlay", children: /* @__PURE__ */ jsxDEV("div", { children: [
+    return /* @__PURE__ */ jsxDEV("div", { className: "overlay", children: /* @__PURE__ */ jsxDEV("div", { className: "p-8 bg-black/50 rounded-xl", children: [
       /* @__PURE__ */ jsxDEV("h1", { className: "text-5xl font-bold mb-4", children: "Augmented Reality Say the Image" }, void 0, false, {
         fileName: "<stdin>",
         lineNumber: 144,
