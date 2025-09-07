@@ -1,0 +1,17 @@
+{
+  "database": {
+    "schema": {
+      "word_images": {
+        "id": {
+          "type": "text",
+          "description": "The common household item word. Used as primary key for uniqueness."
+        },
+        "image_url": {
+          "type": "text",
+          "description": "URL of the AI-generated image for the word."
+        }
+      }
+    }
+  }
+}
+
